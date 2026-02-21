@@ -22,6 +22,7 @@ video-ak-cdn-spotify-com.akamaized.net
 # Spotify video CDN subdomains
 video-ak.cdn.spotify.com
 video-akpcw.spotifycdn.com
+video-cf.spotifycdn.com
 video-fa.scdn.co
 video-fa.cdn.spotify.com
 video-fa-b.cdn.spotify.com
