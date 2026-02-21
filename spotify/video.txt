@@ -1,0 +1,28 @@
+# Spotify Video Blocklist
+# Blocks video content (Canvas, video podcasts) in the Spotify app
+# Compatible with Pi-hole and other DNS-based blockers
+#
+# Usage in Pi-hole:
+#   Settings > Blocklists > Add the raw URL of this file
+#   e.g. https://raw.githubusercontent.com/twentythree-ch/blocklists/main/spotify/video.txt
+
+# Spotify Canvas (short looping videos shown on track pages)
+canvas.scdn.co
+canvaz.scdn.co
+
+# Spotify video content and video podcasts
+video.spotify.com
+seektables.scdn.co
+
+# CDN endpoints used for Spotify video delivery
+video-ak-spotify-com.akamaized.net
+video-akpcw-cdn-spotify-com.akamaized.net
+video-ak-cdn-spotify-com.akamaized.net
+
+# Spotify video CDN subdomains
+video-ak.cdn.spotify.com
+video-akpcw.spotifycdn.com
+video-fa.scdn.co
+video-fa.cdn.spotify.com
+video-fa-b.cdn.spotify.com
+video4-ak.spotify.com
