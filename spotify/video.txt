@@ -14,5 +14,15 @@ canvaz.scdn.co
 video.spotify.com
 seektables.scdn.co
 
-# CDN endpoint used for Spotify video delivery
+# CDN endpoints used for Spotify video delivery
 video-ak-spotify-com.akamaized.net
+video-akpcw-cdn-spotify-com.akamaized.net
+video-ak-cdn-spotify-com.akamaized.net
+
+# Spotify video CDN subdomains
+video-ak.cdn.spotify.com
+video-akpcw.spotifycdn.com
+video-fa.scdn.co
+video-fa.cdn.spotify.com
+video-fa-b.cdn.spotify.com
+video4-ak.spotify.com
